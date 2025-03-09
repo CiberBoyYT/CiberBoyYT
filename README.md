@@ -8,11 +8,10 @@ I'm a hobbyist **developer** and **YouTuber** who loves coding and experimenting
 - **HTML, CSS & JavaScript** (Web development)
 
 ### 📊 My GitHub Stats
-https://github-readme-stats.vercel.app/api?username=CiberBoyYT&show_icons=true&theme=dark
+![CiberBoyYT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CiberBoyYT&show_icons=true&theme=dark)
 
 ### 💻 My most used languages
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=CiberBoyYT&layout=compact&theme=dark
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiberBoyYT&layout=compact&theme=dark)
 
 ### 🚀 What I do
 - Creating GDI effects in **C#**
