@@ -12,6 +12,7 @@ I'm a hobbyist **developer** and **YouTuber** who loves coding and experimenting
 
 ### 💻 My most used languages
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CiberBoyYT&layout=compact&theme=dark)
 
 ### 🚀 What I do
 - Creating GDI effects in **C#**
