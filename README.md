@@ -2,7 +2,7 @@
 
 I'm a hobbyist **developer** and **YouTuber** who loves coding and experimenting with technology. I mostly work with:
 
-- **C#** (WinForms, WPF, GDI, P/Invoke, and more!)
+- **C#** (WinForms, WPF, GDI, etc...)
 - **C++** 
 - **Python** 
 - **HTML, CSS & JavaScript** (Web development)
