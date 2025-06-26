@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm CiberBoyYT
+### 👋 Hey there! I'm CiberBoy
 
 I'm a hobbyist **developer** and **YouTuber** who loves coding and experimenting with technology. I mostly work with:
 
