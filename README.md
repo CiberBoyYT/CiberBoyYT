@@ -31,6 +31,6 @@ I share my programming experiments, tutorials, and tech adventures on YouTube:
 - **My Discord:** ciberboyyt
 
 ### 🔢 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/ciberboyyt/count.svg](https://komarev.com/ghpvc/?username=ciberboyyt)
+![Visitor Count](https://komarev.com/ghpvc/?username=ciberboyyt)
 
 💻 Always coding, always learning. Feel free to explore my repositories and drop a ⭐ if you like my work!
